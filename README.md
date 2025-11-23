@@ -1,0 +1,1 @@
+- [x] [CDN](https://www.youtube.com/watch?v=8zX0rue2Hic&t=227s)
