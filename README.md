@@ -1,1 +1,2 @@
 - [x] [CDN](https://www.youtube.com/watch?v=8zX0rue2Hic&t=227s)
+- [x] [URL Shortener](https://blog.algomaster.io/p/design-a-url-shortener)
